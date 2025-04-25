@@ -1,13 +1,36 @@
-# votingSystem
-Demo voting system
-# Mini-Voting-System-Using-C-Language
-* Allows us to set up a flexible and trustworthy voting system
-* Applicable for large as well as small group of people e.g. a batch, a class.
-* Keeps a record of  every voting process.
+# 🗳️ Voting System  
+A simple demo voting system implemented in C.
 
-##How to use?
-You can fork or download the repo, Once you have both the files "MAIN.C" and "ELECTION.H", You just need to compile and run MAIN.C
+## 📌 Project Title  
+**Mini Voting System using C Language**
 
-* ( It's too easy, isn't it? ☺)
+## ✅ Features  
+- Set up a flexible and trustworthy voting system  
+- Suitable for both small and large groups (e.g., a class, a batch)  
+- Maintains a record of each voting process  
+- Includes a basic Admin Panel for secure access
 
-For Admin Panel Use Username: "Admin" Password: "admiN"
+## 🚀 How to Use  
+1. Fork or download the repository.  
+2. Ensure you have both files:  
+   - `main.c`  
+   - `election.h`  
+3. Compile and run `main.c` using your preferred C compiler (e.g., GCC or Code::Blocks).  
+4. Follow the on-screen prompts to cast votes or access the admin panel.
+
+> _It's super easy, isn't it? ☺_
+
+## 🔐 Admin Panel  
+- **Username:** `Admin`  
+- **Password:** `admiN`  
+
+## 📂 File Structure  
+```
+votingSystem/
+│
+├── main.c         // Main driver code
+├── election.h     // Header file containing function declarations
+└── README.md      // Project description
+```
+
+---
